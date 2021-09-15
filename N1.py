@@ -45,8 +45,8 @@ if numero_sala == 9:
     print("W W W    I     N N N")
     print(" WWW     I     N  NN")
     print(" W W    III    N   N")
-
-elif numero_sala == 8:
+    
+    numero_sala == 8:
     import random
 numero_sala = random.randint(1,5)
 print("Você pegou um teleporte mágico e acabou sendo teleportado para sala: ", numero_sala)
