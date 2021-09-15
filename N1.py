@@ -48,6 +48,6 @@ if numero_sala == 9:
 
 elif numero_sala == 8:
     import random
-n = random.randint(0,5)
-print("Você pegou um teleporte mágico e acabou sendo teleportado para sala: ", n)
+numero_sala = random.randint(1,5)
+print("Você pegou um teleporte mágico e acabou sendo teleportado para sala: ", numero_sala)
  
